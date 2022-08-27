@@ -15,7 +15,12 @@ class TeamController{
 
     }
 
+    removeUserFromTeam(){
+
+    }
+    
+
 }
-module.export = {
+module.exports = {
     TeamController : new TeamController()
 }

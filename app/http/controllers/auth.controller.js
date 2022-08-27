@@ -12,3 +12,7 @@ class authController{
     }
 
 }
+
+module.exports = {
+    authController : new authController()
+}
